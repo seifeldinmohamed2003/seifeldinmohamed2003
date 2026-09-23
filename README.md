@@ -1,4 +1,4 @@
-# About Me:
+# About:
 Full-Stack Software Engineer with strong expertise building scalable microservices and responsive web applications. Expertise in Java<br>Spring Boot backend systems, JavaScript/TypeScript full-stack development, and containerized deployments with Docker/Kubernetes.
 
 
